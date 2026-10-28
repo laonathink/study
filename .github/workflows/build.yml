@@ -102,3 +102,4 @@ jobs:
             dist/ "$DEPLOY_USER@$DEPLOY_HOST:$DEPLOY_PATH/"
 
           echo "部署完成"
+
